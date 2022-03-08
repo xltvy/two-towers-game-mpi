@@ -53,3 +53,5 @@ Testing:
 
 Input & Output:
 - The input.txt will contain the size of the map (N), number of waves (W), the number of towers to be placed for each tower type per wave (T) and the coordinates of towers for each wave. Top left coordinate of the map is (0, 0) and bottom right coordinate of the map is (n − 1, n − 1). There will be T number of ‘o’ towers and T number of ‘+’ towers added to map per wave (if possible.)
+
+A report about our project is provided via cmpe300-project2-report.pdf file.
